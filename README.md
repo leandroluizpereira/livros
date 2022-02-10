@@ -1,5 +1,5 @@
 # livros
-  ♦️ Atenção :tem spoiler dos livros , eu coloquei os melhores momentos da minha leitura <br> <br>
+  ♦️ Atenção : tem spoiler dos livros , eu coloquei os melhores momentos da minha leitura <br> <br>
  
   ## 🖥️ Html Css Javascript
  
