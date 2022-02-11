@@ -6,5 +6,5 @@
  ## Livros (link github pages) - responsivo somente para pc 
  * [O melhor de mim ](https://leandroluizpereira.github.io/livro-o-melhor-de-mim/)
  * [No seu olhar](https://leandroluizpereira.github.io/livro-no-seu-olhar/)
- * [Diário de um paixão ⭐⭐⭐⭐⭐](https://leandroluizpereira.github.io/livro-diario-de-uma-paixao/)
+ * [Diário de um paixão ⭐](https://leandroluizpereira.github.io/livro-diario-de-uma-paixao/)
  
